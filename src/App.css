@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+
+  [class*="col-"] {
+      margin-bottom: 25px;
+  }
+
+}
